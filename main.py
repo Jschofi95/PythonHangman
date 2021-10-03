@@ -53,7 +53,7 @@ def playerGuess(letter, completeWord, emptyWord):
     emptyWord = "".join(emptyWord)  # Convert back to string
     return emptyWord
 
-
+# Main Function
 def main():
     livesRemaining, maxLetterCount, minLetterCount, theme, themedWord = newGame('medium')
 
