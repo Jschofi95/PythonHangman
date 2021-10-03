@@ -1,0 +1,3 @@
+The game must have three different difficulties: easy, medium, and hard. (possible extreme?)
+The game must choose from a list of words based on theme (Themes: animals, office, gym, computers, think of more)
+Maybe draw a hang man
